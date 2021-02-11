@@ -1,0 +1,7 @@
+[version]
+1.000
+[download]
+link
+[changelog]
+Text
+[endchangelog]
