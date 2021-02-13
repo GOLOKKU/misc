@@ -1,7 +1,7 @@
 [version]
-1.000
+1.001
 [download]
-link
+Empty
 [changelog]
-Text
+First release
 [endchangelog]
