@@ -1,7 +1,7 @@
 [version]
-1.001
+1.000
 [download]
-Empty
+https://github.com/GOLOKKU/misc/raw/main/launcher/launcher.zip
 [changelog]
 First release
 [endchangelog]
